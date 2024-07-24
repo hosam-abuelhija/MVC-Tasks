@@ -1,0 +1,31 @@
+﻿@{
+    Layout = "~/Views/Shared/_LayoutPage1.cshtml";
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title></title>
+</head>
+<body>
+    <div class="container">
+        <div class="page-header">
+            <h1>Thank You for Contacting Us</h1>
+        </div>
+
+        <div class="row">
+            <div class="col-md-12">
+                <h2>Submitted Information</h2>
+                <p><strong>Name:</strong> @ViewBag.Name</p>
+                <p><strong>Phone Number:</strong> @ViewBag.Phone</p>
+                <p><strong>Preferred Contact Method:</strong> @ViewBag.ContactMethod</p>
+                <p><strong>Subject:</strong> @ViewBag.Subject</p>
+                <p><strong>Services Interested In:</strong> @ViewBag.Services</p>
+                <p><strong>Message:</strong> @ViewBag.Message</p>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
