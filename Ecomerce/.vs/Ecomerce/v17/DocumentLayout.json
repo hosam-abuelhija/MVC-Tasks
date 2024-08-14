@@ -1,22 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Orange\\source\\repos\\Ecomerce\\",
+  "WorkspaceRootPath": "C:\\Users\\Orange\\Desktop\\MVC\\MVC-Tasks\\Ecomerce\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B029A9C0-0988-45E6-BA81-C6CF665D03D3}|Ecomerce\\Ecomerce.csproj|c:\\users\\orange\\source\\repos\\ecomerce\\ecomerce\\views\\session\\createproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{B029A9C0-0988-45E6-BA81-C6CF665D03D3}|Ecomerce\\Ecomerce.csproj|C:\\Users\\Orange\\Desktop\\MVC\\MVC-Tasks\\Ecomerce\\ecomerce\\views\\session\\productlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B029A9C0-0988-45E6-BA81-C6CF665D03D3}|Ecomerce\\Ecomerce.csproj|solutionrelative:ecomerce\\views\\session\\productlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B029A9C0-0988-45E6-BA81-C6CF665D03D3}|Ecomerce\\Ecomerce.csproj|c:\\users\\orange\\desktop\\mvc\\mvc-tasks\\ecomerce\\ecomerce\\views\\session\\createproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B029A9C0-0988-45E6-BA81-C6CF665D03D3}|Ecomerce\\Ecomerce.csproj|solutionrelative:ecomerce\\views\\session\\createproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B029A9C0-0988-45E6-BA81-C6CF665D03D3}|Ecomerce\\Ecomerce.csproj|c:\\users\\orange\\source\\repos\\ecomerce\\ecomerce\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B029A9C0-0988-45E6-BA81-C6CF665D03D3}|Ecomerce\\Ecomerce.csproj|solutionrelative:ecomerce\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B029A9C0-0988-45E6-BA81-C6CF665D03D3}|Ecomerce\\Ecomerce.csproj|c:\\users\\orange\\source\\repos\\ecomerce\\ecomerce\\controllers\\sessioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B029A9C0-0988-45E6-BA81-C6CF665D03D3}|Ecomerce\\Ecomerce.csproj|C:\\Users\\Orange\\Desktop\\MVC\\MVC-Tasks\\Ecomerce\\ecomerce\\controllers\\sessioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B029A9C0-0988-45E6-BA81-C6CF665D03D3}|Ecomerce\\Ecomerce.csproj|solutionrelative:ecomerce\\controllers\\sessioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B029A9C0-0988-45E6-BA81-C6CF665D03D3}|Ecomerce\\Ecomerce.csproj|c:\\users\\orange\\source\\repos\\ecomerce\\ecomerce\\views\\session\\productlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B029A9C0-0988-45E6-BA81-C6CF665D03D3}|Ecomerce\\Ecomerce.csproj|solutionrelative:ecomerce\\views\\session\\productlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{B029A9C0-0988-45E6-BA81-C6CF665D03D3}|Ecomerce\\Ecomerce.csproj|c:\\users\\orange\\desktop\\mvc\\mvc-tasks\\ecomerce\\ecomerce\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B029A9C0-0988-45E6-BA81-C6CF665D03D3}|Ecomerce\\Ecomerce.csproj|solutionrelative:ecomerce\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B029A9C0-0988-45E6-BA81-C6CF665D03D3}|Ecomerce\\Ecomerce.csproj|c:\\users\\orange\\desktop\\mvc\\mvc-tasks\\ecomerce\\ecomerce\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{B029A9C0-0988-45E6-BA81-C6CF665D03D3}|Ecomerce\\Ecomerce.csproj|solutionrelative:ecomerce\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -35,51 +39,63 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC\\MVC-Tasks\\Ecomerce\\Ecomerce\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Ecomerce\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC\\MVC-Tasks\\Ecomerce\\Ecomerce\\Models\\Product.cs",
+              "RelativeToolTip": "Ecomerce\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T05:57:28.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC\\MVC-Tasks\\Ecomerce\\Ecomerce\\Models\\Model1.edmx",
+              "RelativeDocumentMoniker": "Ecomerce\\Models\\Model1.edmx",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC\\MVC-Tasks\\Ecomerce\\Ecomerce\\Models\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "Ecomerce\\Models\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-08-14T05:52:35.491Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "ProductList.cshtml",
-              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\Ecomerce\\Ecomerce\\Views\\Session\\ProductList.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC\\MVC-Tasks\\Ecomerce\\Ecomerce\\Views\\Session\\ProductList.cshtml",
               "RelativeDocumentMoniker": "Ecomerce\\Views\\Session\\ProductList.cshtml",
-              "ToolTip": "C:\\Users\\Orange\\source\\repos\\Ecomerce\\Ecomerce\\Views\\Session\\ProductList.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC\\MVC-Tasks\\Ecomerce\\Ecomerce\\Views\\Session\\ProductList.cshtml",
               "RelativeToolTip": "Ecomerce\\Views\\Session\\ProductList.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAeAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-08-14T05:29:57.236Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "CreateProduct.cshtml",
-              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\Ecomerce\\Ecomerce\\Views\\Session\\CreateProduct.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC\\MVC-Tasks\\Ecomerce\\Ecomerce\\Views\\Session\\CreateProduct.cshtml",
               "RelativeDocumentMoniker": "Ecomerce\\Views\\Session\\CreateProduct.cshtml",
-              "ToolTip": "C:\\Users\\Orange\\source\\repos\\Ecomerce\\Ecomerce\\Views\\Session\\CreateProduct.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC\\MVC-Tasks\\Ecomerce\\Ecomerce\\Views\\Session\\CreateProduct.cshtml",
               "RelativeToolTip": "Ecomerce\\Views\\Session\\CreateProduct.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-08-14T05:28:29.1Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\Ecomerce\\Ecomerce\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "Ecomerce\\Models\\Product.cs",
-              "ToolTip": "C:\\Users\\Orange\\source\\repos\\Ecomerce\\Ecomerce\\Models\\Product.cs",
-              "RelativeToolTip": "Ecomerce\\Models\\Product.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-14T05:26:32.27Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
               "Title": "SessionController.cs",
-              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\Ecomerce\\Ecomerce\\Controllers\\SessionController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC\\MVC-Tasks\\Ecomerce\\Ecomerce\\Controllers\\SessionController.cs",
               "RelativeDocumentMoniker": "Ecomerce\\Controllers\\SessionController.cs",
-              "ToolTip": "C:\\Users\\Orange\\source\\repos\\Ecomerce\\Ecomerce\\Controllers\\SessionController.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC\\MVC-Tasks\\Ecomerce\\Ecomerce\\Controllers\\SessionController.cs",
               "RelativeToolTip": "Ecomerce\\Controllers\\SessionController.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAcwBEAAAAJAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-14T05:21:55.689Z",
               "EditorCaption": ""

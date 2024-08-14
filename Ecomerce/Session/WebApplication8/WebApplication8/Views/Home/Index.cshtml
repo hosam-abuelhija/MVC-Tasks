@@ -1,0 +1,15 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<main>
+    <div class="col-md-4">
+        <div class="card">
+            <img src="@Session["img"] class="card-img-top" alt="@Session["name"]">
+            <div class="card-body">
+                <h5 class="card-title">@Session["name"]</h5>
+                <p class="card-text">@Session["price"]</p>
+            </div>
+        </div>
+    </div>
+</main>

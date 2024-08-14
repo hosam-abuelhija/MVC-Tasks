@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Orange\\source\\repos\\session\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F66B585A-3FA6-4B6E-889D-E99525D70457}|session\\session.csproj|c:\\users\\orange\\source\\repos\\session\\session\\controllers\\sessioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F66B585A-3FA6-4B6E-889D-E99525D70457}|session\\session.csproj|solutionrelative:session\\controllers\\sessioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F66B585A-3FA6-4B6E-889D-E99525D70457}|session\\session.csproj|c:\\users\\orange\\source\\repos\\session\\session\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F66B585A-3FA6-4B6E-889D-E99525D70457}|session\\session.csproj|solutionrelative:session\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F66B585A-3FA6-4B6E-889D-E99525D70457}|session\\session.csproj|c:\\users\\orange\\source\\repos\\session\\session\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F66B585A-3FA6-4B6E-889D-E99525D70457}|session\\session.csproj|solutionrelative:session\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F66B585A-3FA6-4B6E-889D-E99525D70457}|session\\session.csproj|c:\\users\\orange\\source\\repos\\session\\session\\views\\session\\createproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F66B585A-3FA6-4B6E-889D-E99525D70457}|session\\session.csproj|solutionrelative:session\\views\\session\\createproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F66B585A-3FA6-4B6E-889D-E99525D70457}|session\\session.csproj|c:\\users\\orange\\source\\repos\\session\\session\\views\\session\\productlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F66B585A-3FA6-4B6E-889D-E99525D70457}|session\\session.csproj|solutionrelative:session\\views\\session\\productlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\session\\session\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "session\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\session\\session\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "session\\App_Start\\RouteConfig.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T06:18:56.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductList.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\session\\session\\Views\\Session\\ProductList.cshtml",
+              "RelativeDocumentMoniker": "session\\Views\\Session\\ProductList.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\session\\session\\Views\\Session\\ProductList.cshtml",
+              "RelativeToolTip": "session\\Views\\Session\\ProductList.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-14T06:14:55.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreateProduct.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\session\\session\\Views\\Session\\CreateProduct.cshtml",
+              "RelativeDocumentMoniker": "session\\Views\\Session\\CreateProduct.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\session\\session\\Views\\Session\\CreateProduct.cshtml",
+              "RelativeToolTip": "session\\Views\\Session\\CreateProduct.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-14T06:14:11.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\session\\session\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "session\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\session\\session\\Models\\Product.cs",
+              "RelativeToolTip": "session\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T06:10:08.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SessionController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\session\\session\\Controllers\\SessionController.cs",
+              "RelativeDocumentMoniker": "session\\Controllers\\SessionController.cs",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\session\\session\\Controllers\\SessionController.cs",
+              "RelativeToolTip": "session\\Controllers\\SessionController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T06:07:29.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
