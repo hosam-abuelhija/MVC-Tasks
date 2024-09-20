@@ -11,6 +11,6 @@ namespace codeFirstTask.Models
         [Key]
         public int ID { get; set; }
         public string Name { get; set; }
-
+        public virtual ICollection<TeacherAssignment> TeacherAssignments { get; set; }
     }
 }
